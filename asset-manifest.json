@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/loading-while-scrolling/static/css/main.d7eb1da5.chunk.css",
-    "main.js": "/loading-while-scrolling/static/js/main.8fa47316.chunk.js",
-    "main.js.map": "/loading-while-scrolling/static/js/main.8fa47316.chunk.js.map",
-    "runtime-main.js": "/loading-while-scrolling/static/js/runtime-main.a8588147.js",
-    "runtime-main.js.map": "/loading-while-scrolling/static/js/runtime-main.a8588147.js.map",
-    "static/css/2.ec02d681.chunk.css": "/loading-while-scrolling/static/css/2.ec02d681.chunk.css",
-    "static/js/2.627b2db9.chunk.js": "/loading-while-scrolling/static/js/2.627b2db9.chunk.js",
-    "static/js/2.627b2db9.chunk.js.map": "/loading-while-scrolling/static/js/2.627b2db9.chunk.js.map",
-    "index.html": "/loading-while-scrolling/index.html",
-    "static/css/2.ec02d681.chunk.css.map": "/loading-while-scrolling/static/css/2.ec02d681.chunk.css.map",
-    "static/css/main.d7eb1da5.chunk.css.map": "/loading-while-scrolling/static/css/main.d7eb1da5.chunk.css.map",
-    "static/js/2.627b2db9.chunk.js.LICENSE.txt": "/loading-while-scrolling/static/js/2.627b2db9.chunk.js.LICENSE.txt"
+    "main.css": "/Loading-While-Scrolling/static/css/main.d7eb1da5.chunk.css",
+    "main.js": "/Loading-While-Scrolling/static/js/main.8fa47316.chunk.js",
+    "main.js.map": "/Loading-While-Scrolling/static/js/main.8fa47316.chunk.js.map",
+    "runtime-main.js": "/Loading-While-Scrolling/static/js/runtime-main.03baeaa7.js",
+    "runtime-main.js.map": "/Loading-While-Scrolling/static/js/runtime-main.03baeaa7.js.map",
+    "static/css/2.ec02d681.chunk.css": "/Loading-While-Scrolling/static/css/2.ec02d681.chunk.css",
+    "static/js/2.627b2db9.chunk.js": "/Loading-While-Scrolling/static/js/2.627b2db9.chunk.js",
+    "static/js/2.627b2db9.chunk.js.map": "/Loading-While-Scrolling/static/js/2.627b2db9.chunk.js.map",
+    "index.html": "/Loading-While-Scrolling/index.html",
+    "static/css/2.ec02d681.chunk.css.map": "/Loading-While-Scrolling/static/css/2.ec02d681.chunk.css.map",
+    "static/css/main.d7eb1da5.chunk.css.map": "/Loading-While-Scrolling/static/css/main.d7eb1da5.chunk.css.map",
+    "static/js/2.627b2db9.chunk.js.LICENSE.txt": "/Loading-While-Scrolling/static/js/2.627b2db9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a8588147.js",
+    "static/js/runtime-main.03baeaa7.js",
     "static/css/2.ec02d681.chunk.css",
     "static/js/2.627b2db9.chunk.js",
     "static/css/main.d7eb1da5.chunk.css",
