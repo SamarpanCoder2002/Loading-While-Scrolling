@@ -2,7 +2,7 @@
   "name": "loading-while-scrolling",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://samarpancoder2002.github.io/loading-while-scrolling",
+  "homepage": "https://samarpancoder2002.github.io/Loading-While-Scrolling",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
