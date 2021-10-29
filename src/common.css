@@ -1,0 +1,74 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300&family=Roboto&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  color: #fff;
+  background: url("./background.jpg") no-repeat center center fixed;
+}
+
+.upperside {
+  font-size: 8rem;
+  text-align: center;
+  height: 50rem;
+  background-color: rgba(0, 0, 0, 0.5);
+  padding-top: 18rem;
+}
+
+.lowerside {
+  background-color: rgba(0, 0, 0, 0.5);
+  text-align: center;
+  font-size: 3rem;
+}
+
+.card-collections {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-top: 5rem;
+}
+
+.card-itself {
+  text-align: center;
+  font-size: 1.2rem;
+  padding: 50px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+  margin-bottom: 3rem;
+  width: 25%;
+}
+
+@media screen and (max-width: 900px) {
+  .upperside {
+    font-size: 6rem;
+  }
+
+  .lowerside .heading {
+    font-size: 2rem;
+    padding-left: 2px;
+    padding-right: 2px;
+  }
+
+  .card-itself {
+    width: 50%;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .upperside {
+    font-size: 4rem;
+    padding-left: 2px;
+    padding-right: 2px;
+  }
+
+  .card-itself {
+    width: 100%;
+  }
+}

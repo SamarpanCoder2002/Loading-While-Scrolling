@@ -1,10 +1,3 @@
-
-### <p align="center">Loading While Scrolling Project Video Preview</p>
-
-<video controls src="https://user-images.githubusercontent.com/66327336/139335571-290ea4e0-5991-4dfc-9f93-587d3b6b88b0.mp4"> </video>
-
-
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

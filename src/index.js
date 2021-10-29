@@ -1,5 +1,9 @@
-import React from "react";
-import ReactDOM from "react-dom";
-import CommonSection from "./common";
+import React from 'react';
+import ReactDOM from 'react-dom';
+import Common from './common';
+import "./common.css";
 
-ReactDOM.render(<CommonSection />, document.getElementById("root"));
+ReactDOM.render(
+  <Common />,
+  document.getElementById('root')
+);

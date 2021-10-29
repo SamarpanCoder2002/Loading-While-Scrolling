@@ -1,21 +1,17 @@
-import { useEffect } from "react";
-import AOS from "aos";
+import AOS from 'aos';
 import "aos/dist/aos.css";
+import React, {useEffect} from 'react';
+import "./common.css";
 
-function UpperSide() {
-  useEffect(() => {
-    AOS.init();
-  }, []);
+export default function UpperSide() {
 
-  return (
-    <div
-      className="upper-side"
-      data-aos="zoom-in-down"
-      data-aos-duration="3000"
-    >
-      Loading While Scrolling
-    </div>
-  );
+    useEffect(() => {
+        AOS.init();
+    })
+
+    return (
+        <div className="upperside">
+            <p data-aos="zoom-in" data-aos-duration="3000">Loading While Scrolling</p>
+        </div>
+    )
 }
-
-export default UpperSide;

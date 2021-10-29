@@ -1,13 +1,11 @@
-import LowerComponent from "./lowersection";
+import Lowerside from "./lowerside";
 import UpperSide from "./upperside";
 
-function CommonSection() {
-  return (
-    <div className="common-section">
-      <UpperSide />
-      <LowerComponent />
-    </div>
-  );
+export default function Common() {
+    return (
+        <div>
+            <UpperSide />
+            <Lowerside />
+        </div>
+    )
 }
-
-export default CommonSection;
