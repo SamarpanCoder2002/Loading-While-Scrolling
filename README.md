@@ -1,9 +1,10 @@
-
-### <p align="center">Loading While Scrolling Project Video Preview</p>
+### <p align="center">💝 Loading While Scrolling Project Video Preview 💝</p>
 
 <video controls src="https://user-images.githubusercontent.com/66327336/139335571-290ea4e0-5991-4dfc-9f93-587d3b6b88b0.mp4"> </video>
 
-
+#### [✨ Click Here To See Youtube Tutorial](https://youtu.be/rqWwwNleOnA)
+#### [👉 Real Project Preview](https://samarpancoder2002.github.io/Loading-While-Scrolling/)
+#### [😲 Youtube Video Source Code Available in `foryt` branch](https://github.com/SamarpanCoder2002/Loading-While-Scrolling/tree/foryt)
 
 # Getting Started with Create React App
 
