@@ -12,6 +12,7 @@ function UpperSide() {
       className="upper-side"
       data-aos="zoom-in-down"
       data-aos-duration="3000"
+      data-aos-delay="3000"
     >
       Loading While Scrolling
     </div>
