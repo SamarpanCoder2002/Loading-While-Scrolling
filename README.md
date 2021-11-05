@@ -1,6 +1,6 @@
 ### <p align="center">💝 Loading While Scrolling Project Video Preview 💝</p>
 
-<video controls src="https://user-images.githubusercontent.com/66327336/139335571-290ea4e0-5991-4dfc-9f93-587d3b6b88b0.mp4"> </video>
+<video controls src="https://user-images.githubusercontent.com/66327336/139586258-d005cc27-5d4c-4c3f-9a24-7aabebf7617a.mp4"> </video>
 
 #### [✨ Click Here To See Youtube Tutorial](https://youtu.be/rqWwwNleOnA)
 #### [👉 Real Project Preview](https://samarpancoder2002.github.io/Loading-While-Scrolling/)
